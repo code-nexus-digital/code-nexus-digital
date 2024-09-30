@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @code-nexus-digital
-- 👀 I’m interested in engenharia de software
-- 🌱 I’m currently learning HTML-CSS-JAVASCRIPT E PHP
-- 💞️ I’m looking to collaborate on areas que envolva programação!
-- 📫 How to reach me? pelo email: mateusmcsm@htomail.com
+1. Introdução Meu nome é Mateus do Carmo da Silva Mendonça e sou estudante de Engenharia de Software. Atualmente, estou no início da minha jornada na área, aprendendo os fundamentos e preparando-me para entrar no mundo da programação.
+2. O Que é Engenharia de Software? A Engenharia de Software envolve o desenvolvimento, criação e manutenção de sistemas e aplicativos. É uma área que abrange tanto a parte técnica, que envolve a programação, quanto a parte metodológica, como os processos de análise, design e teste de software.
+3. Por que Escolhi Engenharia de Software? Sempre fui interessado em tecnologia e inovação. O impacto do software na sociedade é imenso, e quero contribuir para criar soluções que facilitem a vida das pessoas. Vejo a Engenharia de Software como uma área dinâmica, com muitas oportunidades de crescimento e aprendizado.
+4. Minha Situação Atual Embora eu ainda não saiba programar, estou ciente de que aprender a programar é um dos primeiros passos para me tornar um(a) engenheiro(a) de software completo(a). Já comecei a me familiarizar com os conceitos básicos de programação e estou me preparando para aprender linguagens de programação como Python, Java e C++.
+5. Próximos Passos no Aprendizado Cursos Online: Planejo me inscrever em cursos de programação online para ganhar uma base sólida. Plataformas como Coursera, Udemy e Khan Academy oferecem ótimos cursos para iniciantes. Prática Constante: A prática é essencial para dominar a programação, então pretendo programar pequenos projetos e resolver exercícios regularmente. Entendimento de Algoritmos e Estruturas de Dados: Depois de aprender a programar, vou focar em entender melhor algoritmos e estruturas de dados, que são fundamentais no desenvolvimento de software eficiente.
+6. Desafios que Enfrento O primeiro desafio é superar a curva de aprendizado inicial na programação. O início pode ser desafiador, mas estou motivado(a) a aprender e me desenvolver nessa área. Também preciso aprender a equilibrar o estudo das disciplinas teóricas e práticas do curso.
+7. Conclusão Estou ansioso(a) para continuar minha trajetória na Engenharia de Software, aprender a programar e aplicar meus conhecimentos em projetos reais. Acredito que com dedicação e esforço, conseguirei evoluir na área e, eventualmente, criar soluções inovadoras e eficientes no mundo da tecnologia.
 
-<!---
-code-nexus-digital/code-nexus-digital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
